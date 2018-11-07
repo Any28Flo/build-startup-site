@@ -1,3 +1,3 @@
 The main goal of this project is practice:
   -Flex-box
-And css advanced features
+And css advanced featuresx
